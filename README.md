@@ -31,11 +31,11 @@ Aplicación web para registrar ventas de productos y visualizar estadísticas me
 ---
 
 ### 🌟 Habilidades Blandas  
-- **Trabajo en equipo**: Capacidad para colaborar eficazmente con otros para lograr objetivos comunes.  
-- **Adaptabilidad**: Disposición para aprender nuevas tecnologías y adaptarse a entornos cambiantes.  
-- **Resolución de problemas**: Habilidad para abordar y encontrar soluciones a los desafíos que surgen durante el desarrollo.  
-- **Gestión de proyectos**: Experiencia en la organización y planificación de tareas para cumplir con los plazos establecidos.  
-- **Aprendizaje autónomo**: Capacidad para aprender de manera independiente y mejorar constantemente mis habilidades.  
+- **Trabajo en equipo**  
+- **Adaptabilidad** 
+- **Resolución de problemas**  
+- **Gestión de proyectos** 
+- **Aprendizaje autónomo**
 
 ---
 
