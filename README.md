@@ -1,7 +1,7 @@
 ## Hola, Soy Ezequiel 👋  
 ### 🚀 Desarrollador de Software  
 
-Soy un apasionado desarrollador backend con experiencia en el diseño y desarrollo de aplicaciones web. Me especializo en trabajar con tecnologías como PHP, SQL y Python, además de utilizar arquitecturas como MVC para crear sistemas robustos y escalables.  
+Soy un apasionado desarrollador con experiencia en el diseño y desarrollo de aplicaciones web. Me especializo en trabajar con tecnologías como PHP, SQL y Python, además de utilizar arquitecturas como MVC para crear sistemas robustos y escalables.  
 
 ---
 
