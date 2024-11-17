@@ -1,16 +1,40 @@
-## Hola Soy Ezequiel👋
+## Hola, Soy Ezequiel 👋  
+### 🚀 Desarrollador de Software  
 
-<!--
-**EzequielMartin03/EzequielMartin03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado desarrollador backend con experiencia en el diseño y desarrollo de aplicaciones web. Me especializo en trabajar con tecnologías como PHP, SQL y Python, además de utilizar arquitecturas como MVC para crear sistemas robustos y escalables.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Habilidades Técnicas  
+- **Lenguajes:** PHP, SQL, Python  
+- **Bases de datos:** MySQL, PostgreSQL  
+- **Herramientas y Frameworks:** Dompdf, Chart.js  
+- **Modelado:** Casos de uso, diagramas entidad-relación, diagramas de estado e interacción  
+- **Arquitectura:** Modelo-Vista-Controlador (MVC)  
+
+---
+
+### 🌟 Proyectos Destacados  
+#### **1. AgropecuApp**  
+Sistema web para la gestión agropecuaria, que incluye funciones de alta, modificación, consulta y generación de informes en PDF.  
+
+#### **2. Sistema de Gestión de Ventas**  
+Aplicación web para registrar ventas de productos y visualizar estadísticas mensuales mediante gráficos interactivos.  
+
+---
+
+### 💡 Sobre mí  
+- 🎯 Actualmente, estoy aprendiendo y mejorando mis habilidades en **.NET** para el desarrollo backend.  
+- 🤝 Busco colaborar en proyectos desafiantes y aportar soluciones efectivas.  
+- 🌱 Apasionado por el aprendizaje continuo y la mejora de procesos.  
+
+---
+
+### 📫 ¡Conéctate conmigo!  
+- ✉️ **Correo:** [ezequielnmartin@gmail.com](mailto:ezequielnmartin@gmail.com)  
+- 💼 **LinkedIn:** [Tu Perfil de LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/ezequielnicolasmartin/))  
+- 🌐 **Portafolio:** [Tu Sitio Web o Repositorio](https://github.com/EzequielMartin03)  
+
+---
+
+✨ *"Siempre enfocado en soluciones innovadoras y resultados efectivos."*  
