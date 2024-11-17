@@ -6,9 +6,9 @@ Soy un apasionado desarrollador backend con experiencia en el diseño y desarrol
 ---
 
 ### 🛠️ Habilidades Técnicas  
-- **Lenguajes:** PHP, SQL, Python  
-- **Bases de datos:** MySQL, PostgreSQL  
-- **Herramientas y Frameworks:** Dompdf, Chart.js  
+- **Lenguajes:** PHP, SQL, NoSql, Python  
+- **Bases de datos:** MySQL, PhpMyAdmin, DB browser  
+- **Herramientas:** Postman,Draw.io,Miro  
 - **Modelado:** Casos de uso, diagramas entidad-relación, diagramas de estado e interacción  
 - **Arquitectura:** Modelo-Vista-Controlador (MVC)  
 
@@ -16,7 +16,7 @@ Soy un apasionado desarrollador backend con experiencia en el diseño y desarrol
 
 ### 🌟 Proyectos Destacados  
 #### **1. AgropecuApp**  
-Sistema web para la gestión agropecuaria, que incluye funciones de alta, modificación, consulta y generación de informes en PDF.  
+Sistema web para la gestión agropecuaria, que incluye funciones de alta, modificación, consulta, estadisticas mensuales y generación de informes en PDF.  
 
 #### **2. Sistema de Gestión de Ventas**  
 Aplicación web para registrar ventas de productos y visualizar estadísticas mensuales mediante gráficos interactivos.  
