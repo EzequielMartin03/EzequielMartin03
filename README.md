@@ -8,7 +8,7 @@ Soy un apasionado desarrollador con experiencia en el diseño y desarrollo de ap
 ### 🛠️ Habilidades Técnicas  
 - **Lenguajes:** PHP, SQL, NoSql, Python  
 - **Bases de datos:** MySQL, PhpMyAdmin, DB browser  
-- **Herramientas:** Postman,Draw.io,Miro  
+- **Herramientas:** Postman, Draw.io, Miro  
 - **Modelado:** Casos de uso, diagramas entidad-relación, diagramas de estado e interacción  
 - **Arquitectura:** Modelo-Vista-Controlador (MVC)  
 
@@ -16,7 +16,7 @@ Soy un apasionado desarrollador con experiencia en el diseño y desarrollo de ap
 
 ### 🌟 Proyectos Destacados  
 #### **1. AgropecuApp**  
-Sistema web para la gestión agropecuaria, que incluye funciones de alta, modificación, consulta, estadisticas mensuales y generación de informes en PDF.  
+Sistema web para la gestión agropecuaria, que incluye funciones de alta, modificación, consulta, estadísticas mensuales y generación de informes en PDF.  
 
 #### **2. Sistema de Gestión de Ventas**  
 Aplicación web para registrar ventas de productos y visualizar estadísticas mensuales mediante gráficos interactivos.  
@@ -30,10 +30,19 @@ Aplicación web para registrar ventas de productos y visualizar estadísticas me
 
 ---
 
+### 🌟 Habilidades Blandas  
+- **Trabajo en equipo**: Capacidad para colaborar eficazmente con otros para lograr objetivos comunes.  
+- **Adaptabilidad**: Disposición para aprender nuevas tecnologías y adaptarse a entornos cambiantes.  
+- **Resolución de problemas**: Habilidad para abordar y encontrar soluciones a los desafíos que surgen durante el desarrollo.  
+- **Gestión de proyectos**: Experiencia en la organización y planificación de tareas para cumplir con los plazos establecidos.  
+- **Aprendizaje autónomo**: Capacidad para aprender de manera independiente y mejorar constantemente mis habilidades.  
+
+---
+
 ### 📫 ¡Conéctate conmigo!  
 - ✉️ **Correo:** [ezequielnmartin@gmail.com](mailto:ezequielnmartin@gmail.com)  
 - 💼 **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/ezequielnicolasmartin/)  
 
 ---
 
-✨ *"Siempre enfocado en soluciones innovadoras y resultados efectivos."*  
+✨ *"Siempre enfocado en soluciones innovadoras y resultados efectivos."*
