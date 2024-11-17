@@ -32,8 +32,7 @@ Aplicación web para registrar ventas de productos y visualizar estadísticas me
 
 ### 📫 ¡Conéctate conmigo!  
 - ✉️ **Correo:** [ezequielnmartin@gmail.com](mailto:ezequielnmartin@gmail.com)  
-- 💼 **LinkedIn:** [Tu Perfil de LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/ezequielnicolasmartin/))  
-- 🌐 **Portafolio:** [Tu Sitio Web o Repositorio](https://github.com/EzequielMartin03)  
+- 💼 **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/ezequielnicolasmartin/))  
 
 ---
 
