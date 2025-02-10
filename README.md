@@ -24,7 +24,7 @@ Aplicación web para registrar ventas de productos y visualizar estadísticas me
 ---
 
 ### 💡 Sobre mí  
-- 🎯 Actualmente, estoy aprendiendo y mejorando mis habilidades en **.NET** para el desarrollo backend.  
+- 🎯 Actualmente, estoy aprendiendo y mejorando mis habilidades en **Django Rest Framework** para el desarrollo backend.  
 - 🤝 Busco colaborar en proyectos desafiantes y aportar soluciones efectivas.  
 - 🌱 Apasionado por el aprendizaje continuo y la mejora de procesos.  
 
