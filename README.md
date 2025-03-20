@@ -18,9 +18,8 @@ Soy un apasionado desarrollador con experiencia en el diseño y desarrollo de ap
 #### **1. AgropecuApp**  
 Sistema web para la gestión agropecuaria, que incluye funciones de alta, modificación, consulta, estadísticas mensuales y generación de informes en PDF.  
 
-#### **2. Sistema de Gestión de Ventas**  
-Aplicación web para registrar ventas de productos y visualizar estadísticas mensuales mediante gráficos interactivos.  
-
+#### **2. Api de gestión comercial**  
+Api desarrollada en Django, esta misma tiene como finalidad gestionar productos, categorias, clientes y ventas.
 ---
 
 ### 💡 Sobre mí  
